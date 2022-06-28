@@ -1,0 +1,9 @@
+package com.generation.helloworld.controller;
+
+public class ObjetivosAprendizagem {
+	
+	public String objetivosAprendizagem() {
+		return "Objetivos de Aprendizagem \n1 - Dominar o uso dos metodos GET, POST, PUT, DELETE"
+				+ "\n2 - Usar o framework Spring com sabedoria\n3 - Fazer CRUD";
+	}
+}
