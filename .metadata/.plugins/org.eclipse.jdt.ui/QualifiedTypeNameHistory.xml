@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="com.generation.blogpessoal.model.Postagem"/>
     <fullyQualifiedTypeName name="com.generation.blogpessoal.repository.PostagemRepository"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 </qualifiedTypeNameHistroy>
